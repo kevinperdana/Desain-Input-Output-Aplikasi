@@ -4,6 +4,6 @@ Desain Input Output maksudnya desain aplikasi mulai dari Input (data form) sampa
 Gambar terlampir saya desain pakai Adobe XD (caranya Easy, hanya drag & drop seperti Microsoft Visio).
 Tapi kalau belum bisa, boleh pakai aplikasi apa aja, yang penting desainnya jadi.
 
-## Saya lampirkan dontoh desain Mobile Programming
+## Saya lampirkan contoh desain Mobile Programming
 ## Klik Jump To File untuk lihat contoh desainnya.
 ## Klik Download untuk Preview.
