@@ -6,3 +6,4 @@ Gambar terlampir saya desain pakai Adobe XD (caranya Easy, hanya drag & drop sep
 Tapi kalau belum bisa, boleh pakai aplikasi apa aja, yang penting desainnya jadi.
 
 ## Klik Jump To File untuk lihat contoh desainnya.
+## Klik Download untuk Preview.
